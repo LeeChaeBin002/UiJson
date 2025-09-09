@@ -486,6 +486,7 @@ MonoBehaviour:
   cancleButton: {fileID: 1613487765}
   deleteButton: {fileID: 1193561592}
   acceptButton: {fileID: 1496293498}
+  inputDisplay: {fileID: 0}
 --- !u!1001 &139977750
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1966,7 +1967,7 @@ MonoBehaviour:
   - {fileID: 1852425942}
   - {fileID: 756890132}
   - {fileID: 756890132}
-  defaultWindow: 3
+  defaultWindow: 2
 --- !u!1001 &360812305
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6305,6 +6306,7 @@ MonoBehaviour:
   cancleButton: {fileID: 1613487765}
   deleteButton: {fileID: 1193561592}
   acceptButton: {fileID: 1496293498}
+  inputDisplay: {fileID: 0}
 --- !u!1001 &1259213220
 PrefabInstance:
   m_ObjectHideFlags: 0
