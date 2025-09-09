@@ -1,0 +1,4 @@
+Id,Name,Type,Description,Price,Effect,Icon,Color
+POTION,체력 물약,소모품,Hp를 50회복,50,Heal+50,Icon_Add01,#FF0000FF
+MANA,마나 물약,소모품,MP를 30회복,80,MP+30,Icon_Add01,#0000FFFF
+SWORD,검,무기,기본적인 검형태,200,Attack+5,Icon_Sword01,#FFFFFFFF
